@@ -1,7 +1,7 @@
 ![I am mehadi2021](https://github.com/mehadi2021/Mehadi_programmer/blob/main/Shuvo.jpg)
 
 
-<h1 align="center">Hi 👋, I'm Mehadi Hasan</h1>
+<h1 align="center">Hey 👋, I'm Mehadi Hasan</h1>
 <h3 align="center">A passionate frontend and Backend developer from Bangladesh</h3>
 
 ![Profile views](https://gpvc.arturio.dev/mehadi2021) 
