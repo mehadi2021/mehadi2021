@@ -11,19 +11,17 @@ Welcome to my GitHub profile.I am programmer.I will try improve my programing sk
 Skills: Laravel/PYTHON/ BOOTSTRAP/ NODE.JS / REACT / JS / HTML / CSS
  
 
-- 🔭 I’m currently working on [Hablu Programmer Team](https://www.youtube.com/habluprogrammer1/)
+- 🔭 I’m currently working on [mehadi2021]
 
 - 🌱 I’m currently learning **JS, Python, React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/harun181](https://github.com/harun181)
-
-- 📝 I regularly write articles on [https://www.youtube.com/habluprogrammer1/](https://www.youtube.com/habluprogrammer1/)
+- 👨‍💻 All of my projects are available at [https://github.com/mehadi2021](https://github.com/mehadi2021)
 
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
 
-- 📫 How to reach me **mdtutul763@gmail.com**
+- 📫 How to reach me **meheduhasanrana.17203087@gmail.com**
 
-- 📄 All About Me:[https://linktr.ee/tutul181](https://linktr.ee/tutul181)
+- 📄 All About Me:[https://linkedin.com/in/mehedi-hasan-rana-163a64232](https://linkedin.com/in/mehedi-hasan-rana-163a64232)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
