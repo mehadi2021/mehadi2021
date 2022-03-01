@@ -33,8 +33,6 @@ Skills: Laravel/PYTHON/ BOOTSTRAP/ NODE.JS / REACT / JS / HTML / CSS
 <a href="https://codepen.io/harun181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="harun181" height="30" width="40" /></a>
 <a href="https://youtube.com/channel/UCXnoBSXXFZFRIU0zh3ozMkg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hablu programmer" height="30" width="40" /></a>
 <a href="https://instagram.com/mehedihasanrana201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tutul_181" height="30" width="40" /></a>
-<a href="https://dribbble.com/harun181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="harun181" height="30" width="40" /></a>
-<a href="https://www.behance.net/harun181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="harun181" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -54,8 +52,8 @@ Skills: Laravel/PYTHON/ BOOTSTRAP/ NODE.JS / REACT / JS / HTML / CSS
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harun181)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehadi2021)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=harun181&show_icons=true)  
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=harun181)  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=harun181)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mehadi2021&show_icons=true)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mehadi2021)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mehadi2021)  
