@@ -2,14 +2,13 @@
 
 
 <h1 align="center">Hi 👋, I'm Mehadi Hasan</h1>
-<h3 align="center">MERN Stack Web Developer and Web Designer of Hablu Programmer</h3>
+<h3 align="center">A passionate frontend and Backend developer from Bangladesh</h3>
 
 ![Profile views](https://gpvc.arturio.dev/mehadi2021) 
 
-Welcome to my GitHub profile. I am a MERN Stack Developer and Web Designer at Hablu Programmer Team. 
-Knock me: m.facebook.com/tutul.qcsc
+Welcome to my GitHub profile.I am programmer.I will try improve my programing skill and preparing many project and problem solving.Inshaallah
 
-Skills: PYTHON/ BOOTSTRAP/ NODE.JS / REACT / JS / HTML / CSS
+Skills: Laravel/PYTHON/ BOOTSTRAP/ NODE.JS / REACT / JS / HTML / CSS
  
 
 - 🔭 I’m currently working on [Hablu Programmer Team](https://www.youtube.com/habluprogrammer1/)
