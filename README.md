@@ -22,7 +22,7 @@ Skills: Laravel/PYTHON/ BOOTSTRAP/ NODE.JS / REACT / JS / HTML / CSS
 - 📫 How to reach me **meheduhasanrana.17203087@gmail.com**
 
 - 📄 All About Me:[https://linkedin.com/in/mehedi-hasan-rana-163a64232](https://linkedin.com/in/mehedi-hasan-rana-163a64232)
-- Personal Portfolio:[https://affectionate-saha-07f48b.netlify.app/](https://affectionate-saha-07f48b.netlify.app/)
+- Personal Portfolio:[https://mehadi2021.github.io/Portfolio/](https://mehadi2021.github.io/Portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
